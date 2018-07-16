@@ -1,6 +1,8 @@
 # ds4mac
 A work in progress driver for the DualShock4 using the Mac.
 
+A continuation on the ds4mac driver by khallmark
+
 Progress:
 
 1. Basic kext, loads when DualShock4 is plugged in. - In Progress
